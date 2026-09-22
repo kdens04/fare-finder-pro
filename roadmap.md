@@ -2,4 +2,4 @@
 - [x] Build dark bilingual landing page
 - [x] Add email sign-up/sign-in/sign-out
 - [x] Add protected /app placeholder dashboard
-- [ ] Verify desktop and mobile flows
+- [x] Verify desktop and mobile flows
